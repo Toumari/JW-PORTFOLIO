@@ -4,6 +4,10 @@ html {
 body {
 }
 
+.jack-w {
+  font-family: "Baskervville", serif;
+}
+
 header {
   background-color: slategray;
   background-image: url(./images/mountain2.jpg);
