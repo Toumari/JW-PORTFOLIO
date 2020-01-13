@@ -2,6 +2,11 @@ html {
 }
 
 body {
+  background-image: url(./images/mountain2.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
 }
 
 .jack-w {
@@ -9,17 +14,16 @@ body {
 }
 
 header {
-  background-color: slategray;
-  background-image: url(./images/mountain2.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
 }
 
 .jumbotron {
   background-color: rgba(0, 0, 0, 0);
 }
 
-.lead {
-  font-size: 1.7rem;
+.lead-title {
+  font-size: 2rem;
+}
+
+.title-text {
+  font-family: "Poppins", sans-serif;
 }

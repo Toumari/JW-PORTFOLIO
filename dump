@@ -1,0 +1,61 @@
+<div class="skills-section">
+    <div class="container">
+      <h1 class="text-center display-4 pb-3 title-text">My Skills</h1>
+      <hr class="pb-3">
+      <div class="row d-flex align-items-center mt-4 img-section">
+        <div class="col-12 col-md-5 box">
+          <img src="./images/photo.jpeg" class="img-fluid md-rounded" alt="">
+        </div>
+        <div class="col-12 col-md-7 bg-dark p-md-4 md-p-4 text-white rounded-0">
+          <h3 class="mt-4">Photography</h3>
+          <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam repellat distinctio quae officiis id
+            possimus
+            sequi tempora voluptatum eum vel. Quos illo perspiciatis laudantium omnis in! Impedit, debitis fugiat.
+            Possimus repellat porro nostrum, asperiores magnam ea tempore cumque error assumenda animi amet nulla
+            doloribus vel? Nemo cumque consequuntur autem cupiditate.</p>
+        </div>
+      </div>
+      <div class="row d-flex align-items-center mt-5 md-mt-5">
+        <div class="col-12 col-md-5 box">
+          <img src="./images/web.jpeg" class="img-fluid alt="">
+        </div>
+        <div class=" col-12 col-md-7 bg-dark p-md-4 text-white rounded-0 md-rounded float-left">
+          <h3 class="mt-4">Web Design</h3>
+          <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam repellat distinctio quae officiis id
+            possimus
+            sequi tempora voluptatum eum vel. Quos illo perspiciatis laudantium omnis in! Impedit, debitis fugiat.
+            Possimus repellat porro nostrum, asperiores magnam ea tempore cumque error assumenda animi amet nulla
+            doloribus vel? Nemo cumque consequuntur autem cupiditate.</p>
+        </div>
+      </div>
+      <div class="row d-flex align-items-center mt-5">
+        <div class="col-12 col-md-5 box">
+          <img src="./images/web2.jpeg" class="img-fluid rounded" alt="">
+        </div>
+        <div class="col-12 col-md-7 bg-dark p-md-4 text-white rounded-0">
+          <h3 class="mt-4">Web Development</h3>
+          <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam repellat distinctio quae officiis id
+            possimus
+            sequi tempora voluptatum eum vel. Quos illo perspiciatis laudantium omnis in! Impedit, debitis fugiat.
+            Possimus repellat porro nostrum, asperiores magnam ea tempore cumque error assumenda animi amet nulla
+            doloribus vel? Nemo cumque consequuntur autem cupiditate.</p>
+        </div>
+      </div>
+      <div class=" row d-flex align-items-center mt-5 my-md-5">
+        <div class="col-12 col-md-5 box">
+          <img src="./images/javascript.jpeg" class="img-fluid" alt="">
+        </div>
+        <div class="col-12 col-md-7 bg-dark p-md-4 text-white rounded-0">
+          <h3 class="mt-4">Javascript</h3>
+          <p class="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam repellat distinctio quae officiis
+            id
+            possimus
+            sequi tempora voluptatum eum vel. Quos illo perspiciatis laudantium omnis in! Impedit, debitis fugiat.
+            Possimus repellat porro nostrum, asperiores magnam ea tempore cumque error assumenda animi amet nulla
+            doloribus vel? Nemo cumque consequuntur autem cupiditate.</p>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
