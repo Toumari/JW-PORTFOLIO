@@ -83,6 +83,15 @@ header img {
   padding-bottom: 0;
 }
 
+i {
+  font-size: 6rem;
+  padding-top: 50px;
+}
+
+.what-i-can-do-box {
+
+}
+
 
 
 .bg-gradient {
@@ -90,6 +99,7 @@ header img {
 }
 
 @media (min-width: 576px) {
+
 }
 
 @media (min-width: 768px) {
@@ -138,6 +148,13 @@ header img {
     padding-left: 0 !important;
     margin-left: 0 !important;
   }
+
+  /* What I do Section */
+
+  i {
+    font-size: 6rem;
+  }
+
 }
 
 @media (min-width: 992px) {
