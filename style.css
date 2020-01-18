@@ -1,12 +1,9 @@
 html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background-image: url(./images/mountain2.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-height: 100vh;
+  font-family: "Lato", sans-serif;
 }
 
 .jack-w {
@@ -14,16 +11,133 @@ body {
 }
 
 header {
+  background-image: linear-gradient(to right bottom, #0f0f0f48, #4949495d),
+    url(./images/web4.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.btn-lg {
+  padding: 0.5rem 2.5rem;
+}
+
+.nav-item {
+  font-size: 1.4rem;
+}
+
+header img {
+  height: 300px;
+}
+
+.navbar {
+  padding-top: 15px;
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
 }
 
 .jumbotron {
   background-color: rgba(0, 0, 0, 0);
 }
 
+.lead {
+  font-size: 1.8rem;
+}
+
 .lead-title {
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+/* Header Section */
+
+.header-text-box {
+  position: relative;
+  min-height: 80vh;
+}
+
+.heading-primary {
+  font-size: 1.7;
+}
+
+.header-primary-button {
+  margin-top: 1.7rem;
 }
 
 .title-text {
   font-family: "Poppins", sans-serif;
+}
+
+/* Bio Text Section */
+
+.bio-info {
+  text-align: justify;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bio-info p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+
+
+.bg-gradient {
+  background-color: #527084;
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+  body {
+    padding: 30px;
+  }
+
+  section {
+    margin-bottom: 50px;
+  }
+
+  header {
+    margin-bottom: 50px;
+  }
+
+  .header-primary-button {
+    padding: 0.7rem 2.5rem;
+  }
+
+  .heading-primary {
+    font-size: 4rem;
+  }
+
+  .bio-info {
+    text-align: center;
+  }
+
+  .bio-text-section {
+    padding-left: 2.5rem;
+  }
+
+  .bio-info .bio-title {
+    text-align: left !important;
+  }
+
+  .bio-info img {
+    padding-left: 2rem;
+  }
+
+  .bio-info p {
+    text-align: left !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+}
+
+@media (min-width: 992px) {
+  
+
+@media (min-width: 1200px) {
 }
