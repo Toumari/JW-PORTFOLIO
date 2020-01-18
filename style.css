@@ -44,7 +44,7 @@ header img {
 }
 
 .lead {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
 }
 
 .lead-title {
@@ -59,7 +59,7 @@ header img {
 }
 
 .heading-primary {
-  font-size: 1.7;
+  font-size: 1.7rem;
 }
 
 .header-primary-button {
@@ -103,6 +103,10 @@ header img {
 
   header {
     margin-bottom: 50px;
+  }
+
+  .lead {
+    font-size: 1.9rem;
   }
 
   .header-primary-button {
