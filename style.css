@@ -32,6 +32,7 @@ header img {
   height: 300px;
 }
 
+
 .navbar {
   padding-top: 15px;
 }
@@ -80,9 +81,9 @@ header img {
 /* Bio Text Section */
 
 .bio-info {
-  text-align: justify;
+  
   margin-top: 50px;
-  margin-bottom: 50px;
+  
 }
 
 .bio-info p {
@@ -117,7 +118,7 @@ i {
     padding: 30px;
   }
 
-  section {
+  .section {
     margin-bottom: 50px;
   }
 
@@ -168,6 +169,10 @@ i {
 
   .product-example-text {
     text-align: left;
+  }
+
+  .product-card {
+    padding-bottom: 50px;
   }
 
 }
