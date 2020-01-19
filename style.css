@@ -20,6 +20,11 @@ header {
   min-height: 100vh;
 }
 
+.container-fluid-footer {
+  width: 100vw;
+  min-height: 10vh;
+}
+
 .btn-lg {
   padding: 0.5rem 2.5rem;
 }
@@ -114,9 +119,6 @@ i {
 }
 
 @media (min-width: 768px) {
-  body {
-    padding: 30px;
-  }
 
   .section {
     margin-bottom: 50px;
@@ -174,6 +176,13 @@ i {
   .product-card {
     padding-bottom: 50px;
   }
+
+  .product-example-1 img {
+    width: auto; /*set the width or max-width*/
+    height: auto;
+  }
+
+  
 
 }
 
