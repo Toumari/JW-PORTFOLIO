@@ -4,6 +4,7 @@ html {
 
 body {
   font-family: "Lato", sans-serif;
+
 }
 
 .jack-w {
@@ -47,6 +48,10 @@ header img {
   font-size: 1.2rem;
 }
 
+.lead-product {
+  font-size: 1.6rem;
+}
+
 .lead-title {
   font-size: 1.5rem;
 }
@@ -57,6 +62,8 @@ header img {
   position: relative;
   min-height: 80vh;
 }
+
+
 
 .heading-primary {
   font-size: 1.7rem;
@@ -92,8 +99,16 @@ i {
   background-color: #527084;
 }
 
-@media (min-width: 576px) {
+.product-example-text {
+  text-align: center !important;
+}
 
+
+@media (min-width: 576px) {
+  .product-example-text {
+    text-align: center !important;
+  }
+  
 }
 
 @media (min-width: 768px) {
@@ -110,7 +125,7 @@ i {
   }
 
   .lead {
-    font-size: 1.9rem;
+    font-size: 1.6rem;
   }
 
   .header-primary-button {
@@ -148,6 +163,10 @@ i {
 
   i {
     font-size: 6rem;
+  }
+
+  .product-example-text {
+    text-align: left;
   }
 
 }
